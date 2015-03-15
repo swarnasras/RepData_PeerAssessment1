@@ -2,7 +2,7 @@
 
 
 ## Loading and preprocessing the data
-<<<<<<< HEAD
+
 * Reading data
 
 
@@ -161,21 +161,3 @@ xyplot(steps ~ interval | weekday, data1, type = "a", layout = c(1, 2), xlab = "
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png) 
-=======
-
-
-
-## What is mean total number of steps taken per day?
-
-
-
-## What is the average daily activity pattern?
-
-
-
-## Imputing missing values
-
-
-
-## Are there differences in activity patterns between weekdays and weekends?
->>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
